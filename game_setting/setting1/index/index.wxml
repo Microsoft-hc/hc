@@ -1,0 +1,31 @@
+<navigator url="/page/123">back</navigator>
+<view class="page">
+    <view class="page__hd">
+        <text class="page__title" size="100rpx">设置</text>
+    </view>
+
+    <view class="page__bd">
+
+        <view class="section section_gap">
+            <view class="section__title">音效</view>
+            <view class="body-view">
+                <switch checked="{{switch1Checked}}" bindchange="switch1Change" block-color="green"/>
+            </view>
+        </view>
+
+        <view class="section section_gap">
+            <text class="section__title ">音量</text>
+            <view class="body-view">
+                <slider bindchange="slider1change"    />
+            </view>
+        </view>
+
+        <view class="section section_gap">
+            <text class="section__title">亮度</text>
+            <view class="body-view" >
+                <slider bindchange="slider3change"  />
+            </view>
+        </view>
+
+    </view>
+</view>

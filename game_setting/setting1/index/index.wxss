@@ -1,0 +1,15 @@
+.intro {
+  color:white;
+  margin: 30px;
+  text-align: center;
+}
+.page{
+  position: relative;
+  background-image: url(http://a1.qpic.cn/psc?/V1206UwD12NErC/bqQfVz5yrrGYSXMvKr.cqYjdBi8lsdiMe4uhQEP6st8AjUxJjbJ6NckrI9*LI7w3eyEcD2peJ5I62SQAfUFQ*cBf5RVKxDnABaMLU.99mAc!/c&ek=1&kp=1&pt=0&bo=wANYAgAAAAABF6k!&t=5&tl=3&vuin=798034950&tm=1636707600&sce=60-2-2&rf=newphoto&t=5);
+}
+/*https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201602%2F04%2F20160204221835_RUBHz.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1639301110&t=f261c09d62ddf57626fd9e7b0db687ae*/
+wx-slider .wx-slider-handle-wrapper{
+
+  height:20rpx;
+  width: 400rpx;
+  }
